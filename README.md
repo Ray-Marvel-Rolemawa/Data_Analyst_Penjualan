@@ -1,7 +1,7 @@
 # Data_Analyst_Penjualan_Ray
 Ray Marvel Rolemawa - 12030122120021 - Pengkodean - E
 
-# Langkah Pengoperasian phyton
+# Langkah Pengoperasian Phyton
 1. Mengimpor Modul yang Diperlukan
 2. Membaca File CSV
 3. Menghapus Spasi di Sekitar Nama Kolom
