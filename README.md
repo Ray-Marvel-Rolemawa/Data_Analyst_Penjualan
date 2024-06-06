@@ -1,4 +1,4 @@
-# Data_Analyst_Penjualan_Ray
+# Data_Analyst_Penjualan
 Ray Marvel Rolemawa - 12030122120021 - Pengkodean - E
 
 # Langkah Pengoperasian Phyton
